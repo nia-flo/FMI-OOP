@@ -71,14 +71,12 @@
 
 Примерен файл, който представялява тесте "Magician deck" с 2 карти чудовища, 2 магически карти и 1 пендулум карта:
 <pre>
-//Еxample magician_deck.txt
 Magician Deck|2|2|1
 Blue-Eyes White Dragon|This legendary dragon is a powerful engine of destruction.|3000|2500
 Dark Magician|The ultimate wizard.|2500|2100
 Swords of Revealing Light|Your opponent's monsters cannot declare an attack.|SPELL
 Magic Cylinder|Inflict damage to your opponent equal to its ATK.|TRAP
 Timegazer Magician|Your opponent cannot activate Trap Magic Cards|1200|600|8|SPELL
-//end of example
 </pre>
 
 ### Пример
